@@ -28,3 +28,5 @@ Modèle à teste proposer par chatgpt (à regarder si ça fait du sens)
 | ResNet18     | x        | x  | x                 |
 | MobileNet    | x        | x  | x                 |
 | ResNet + aug | x        | x  | x                 |
+
+lien de ma discussion avec chat si jamais: https://chatgpt.com/share/6932b252-53f4-8010-9f8f-2896ef082d22
