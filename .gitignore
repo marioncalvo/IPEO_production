@@ -1,1 +1,18 @@
 ipeo_hurricane_for_students.zip
+
+# Environnements virtuels Python
+ipeo_venv/
+venv/
+.env/
+.venv/
+venc_scitas/
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archives
+*.zip
