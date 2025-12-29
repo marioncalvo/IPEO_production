@@ -16,3 +16,8 @@ __pycache__/
 
 # Archives
 *.zip
+# Scripts SCITAS (environnement local)
+setup_scitas.sh
+run_on_scitas.slurm
+scitas_venv/
+logs/
