@@ -27,5 +27,4 @@ logs/
 outputs/*.ipynb
 outputs/*.log
 
-# Models - ignore les poids (trop gros) mais garder stats
-models/*.pth
+# Models - tous les fichiers sont pushés (modèles + stats)
