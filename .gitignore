@@ -22,4 +22,10 @@ run_on_scitas.slurm
 run_nb_scitas.sh
 scitas_venv/
 logs/
-outputs/
+
+# Outputs - ignore sauf les graphes PNG
+outputs/*.ipynb
+outputs/*.log
+
+# Models - ignore les poids (trop gros) mais garder stats
+models/*.pth
