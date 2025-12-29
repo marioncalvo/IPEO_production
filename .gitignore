@@ -19,5 +19,7 @@ __pycache__/
 # Scripts SCITAS (environnement local)
 setup_scitas.sh
 run_on_scitas.slurm
+run_nb_scitas.sh
 scitas_venv/
 logs/
+outputs/
