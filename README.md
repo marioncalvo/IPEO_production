@@ -21,3 +21,8 @@ ATTENTION ne pas modifier le projet_full en même temps sinon on aura des probl�
 
 Pour récupérer les modifications des autres:
 git pull
+
+
+Pour run sur SCITAS
+D'abord(pour 3h de run): Sinteract -a env540 -g gpu:1 -t 3:00:00
+Suivit de: source scitas_venv/bin/activate && papermill ipeo_code.ipynb ipeo_code_executed.ipynb --log-output
